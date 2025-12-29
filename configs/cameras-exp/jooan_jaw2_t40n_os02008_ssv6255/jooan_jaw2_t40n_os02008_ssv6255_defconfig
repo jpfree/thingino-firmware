@@ -1,4 +1,4 @@
-# NAME: Jooan W5U (T40NN, OS02G10, SSV6256P)
+# NAME: Jooan JA-W2 (T40N, MIS2008, SSV6255)
 # FRAG: soc-xburst2 toolchain-xburst2 ccache brand rootfs kernel system target uboot ssl
 BR2_ETHERNET=y
 BR2_SENSOR_MIS2008=y
