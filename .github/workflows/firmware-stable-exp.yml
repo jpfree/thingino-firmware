@@ -1,4 +1,4 @@
-name: firmware-stable
+name: firmware-stable-exp
 on:
   schedule:
     - cron:  '30 8 * * *'
